@@ -11,8 +11,7 @@ public class Solution
 
             if(nums[i] == Majority)
                 Count++;
-            else
-                Count--;
+            
         }
 
 
